@@ -4,9 +4,11 @@
 ## Feature
   Simple to understand.
 ## Environment
-  Build: gcc 9.4.0
-  Platform: Linux(WSL Ubuntu)
-  Dependencies: Standard C library
-  Version control: Git
-  
-  
+  Build: gcc 9.4.0  
+  Platform: Linux(WSL Ubuntu)  
+  Dependencies: Standard C library  
+  Version control: Git  
+## Structure
+  HNU-CS-virus/  
+├── quarantine  
+└── virus.c  
